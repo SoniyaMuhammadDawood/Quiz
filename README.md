@@ -4,7 +4,7 @@
 <h3 align="center">A beginner developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
-  alt="coding" width="300"  src="https://i.makeagif.com/media/6-02-2022/LtwJTO.gif" alt="soniyamuhammaddawood" /> </p>
+  alt="coding" width="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnlCsJm1KhBkdMfSzSZsq1NmhcyablEVdP2GvrbawdUA&s" alt="soniyamuhammaddawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
